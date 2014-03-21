@@ -7,6 +7,8 @@ Change 1 (from branch-a)
 
 Line 2
 
+Change 3 (from branch-a)
+
 Line 3
 
 Change 2 (from branch-a)
