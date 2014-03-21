@@ -11,6 +11,6 @@ Change 3 (from branch-a)
 
 Line 3
 
-Change 2 (from branch-a)
+Change 2
 
 Line 4
