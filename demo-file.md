@@ -9,4 +9,6 @@ Line 2
 
 Line 3
 
+Change 2 (from branch-a)
+
 Line 4
