@@ -7,4 +7,6 @@ Line 2
 
 Line 3
 
+Change 1 (from branch-b)
+
 Line 4
